@@ -6,7 +6,7 @@ szam = int(input("Adj egy egész számot, és és kiszámolom egytől a számok 
 y = 0
 
 
-for i in range(1, szam+1):
+for i in range(1, szam):
     y += i
     #print(i)
 
